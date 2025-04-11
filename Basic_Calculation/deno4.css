@@ -1,0 +1,22 @@
+input{
+    margin: 10px;
+    padding: 10px 20px;;
+    border: 0.5px solid;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor:pointer;
+
+}
+button{
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid ;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    color: red;
+    cursor:pointer;
+}
+button:hover
+{
+    background-color: #ff9999
